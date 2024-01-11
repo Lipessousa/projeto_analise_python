@@ -10,4 +10,4 @@ Bibliotecas usadas:
  - pandas (para importar e manipular a base de dados)
  - plotly (para construção dos gráficos)
 
-OBS: na minha máquina por alguma razão a função show() do plotly não está funcionandov (possíveis problemas com o pacote), então tive que usar a função display() do próprio notebook para nostrar os gráficos na tela 
+OBS: na minha máquina por alguma razão a função show() do plotly não está funcionando (possíveis problemas com o pacote), então tive que usar a função display() do próprio notebook para nostrar os gráficos na tela 
